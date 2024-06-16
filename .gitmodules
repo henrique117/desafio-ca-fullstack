@@ -1,3 +1,6 @@
 [submodule "desafio-ca-api"]
 	path = desafio-ca-api
 	url = https://github.com/henrique117/desafio-ca-api
+[submodule "desafio-ca-front"]
+	path = desafio-ca-front
+	url = https://github.com/henrique117/desafio-ca-front
